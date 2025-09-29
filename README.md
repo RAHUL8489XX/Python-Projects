@@ -263,8 +263,8 @@ What should I say? I love all colors equally!
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/python-projects.git
-cd python-projects
+git clone https://github.com/RAHUL8489XX/Python-Projects.git
+cd Python-Projects
 ```
 
 ### Install Dependencies
