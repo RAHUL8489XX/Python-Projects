@@ -385,10 +385,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Rahul Yogi**
+- GitHub: [@RAHUL8489XX](https://github.com/RAHUL8489XX)
+- LinkedIn: [Rahul Yogi](https://www.linkedin.com/in/rahul-yogi-264812270/)
+- Email: rahulyogi1106@gmail.com
 
 ---
 
