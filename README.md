@@ -8,7 +8,7 @@ A collection of 4 intermediate-level Python projects showcasing web scraping, da
 - [Project 2: Personal Finance Tracker](#project-2-personal-finance-tracker)
 - [Project 3: Password Manager](#project-3-password-manager)
 - [Project 4: AI Chatbot with NLP](#project-4-ai-chatbot-with-nlp)
-- [Installation](#installation)
+- [Installation](#-installation-4)
 - [Contributing](#contributing)
 - [License](#license)
 
